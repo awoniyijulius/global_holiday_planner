@@ -11,6 +11,13 @@ An interactive **Streamlit app** that helps you find the best holiday weeks arou
 - Download results as **CSV**
 - Charts: weekly trend + daily heatmap
 - Filters: city, year, hemisphere, summer‑only mode
+## 🚀 Try it Live
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://<your-username>-<your-repo-name>.streamlit.app)
+
+## 👀 Preview
+
+![App Screenshot](screenshot.png)
 
 ---
 
