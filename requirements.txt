@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+meteostat
+matplotlib
+seaborn
+requests
+python-dotenv
