@@ -13,7 +13,7 @@ An interactive **Streamlit app** that helps you find the best holiday weeks arou
 - Filters: city, year, hemisphere, summer‑only mode
 ## 🚀 Try it Live
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://<your-username>-<your-repo-name>.streamlit.app)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://globalholidayplannergit-ykj.streamlit.app/))
 
 ## 👀 Preview
 
