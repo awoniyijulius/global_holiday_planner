@@ -41,15 +41,15 @@ Code
 app.py
 requirements.txt
 README.md
-ui/
-  ├── components.py
-  └── charts.py
-data_sources/
-  ├── meteostat_data.py
-  └── forecast_data.py
-logic/
-  ├── scoring.py
-  └── blending.py
+## ui/
+### ├── components.py
+### └── charts.py
+## data_sources/
+### ├── meteostat_data.py
+### └── forecast_data.py
+## logic/
+### ├── scoring.py
+### └── blending.py**
 ## 🌐 Deployment
 **Push this repo to GitHub**
 
